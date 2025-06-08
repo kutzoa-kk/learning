@@ -52,6 +52,7 @@
 | [ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本](https://amzn.to/4k5PqVD) | ✅ | 2024 | Book |
 | [エリック・エヴァンスのドメイン駆動設計](https://amzn.to/4kfJA3K) | ✅ | 2025 | Book |
 | [実践ドメイン駆動設計](https://amzn.to/41bYwar) | ⬜ | | Book |
+| [事例でわかるＭＬＯｐｓ　機械学習の成果をスケールさせる処方箋](https://amzn.to/45aOiLj) | ✅ | 2025 | Book |
 
 ### Swift
 
@@ -82,7 +83,7 @@
 
 | Resource | Progress | Date | Type |
 |---|---|---|---|
-| [妥協しないデータ分析のための微積分＋線形代数入門](https://amzn.to/4idkxwx) | ⬜ | | Book |
+| [妥協しないデータ分析のための微積分＋線形代数入門](https://amzn.to/4idkxwx) | ✅ | 2025 | Book |
 | [データ分析に必須の知識・考え方　統計学入門](https://amzn.to/4biRCVM) | ⬜ | | Book |
 
 #### Bayesian Statistics
@@ -92,6 +93,7 @@
 | [Pythonで動かして学ぶ！あたらしいベイズ統計の教科書](https://amzn.to/3ETWLYc) | ⬜ | | Book |
 | [ゼロからできるＭＣＭＣ　マルコフ連鎖モンテカルロ法の実践的入門](https://amzn.to/3D8RYS1) | ⬜ | | Book |
 | [Ｐｙｔｈｏｎで学ぶ実験計画法入門　ベイズ最適化によるデータ解析](https://amzn.to/4iaoORf) | ⬜ | | Book |
+| [【PythonとStanで学ぶ】仕組みが分かるベイズ統計学入門](https://www.udemy.com/share/101YHk/) | ⬜ | | Udemy |
 
 #### Probability Theory
 | Resource | Progress | Date | Type |
@@ -104,11 +106,12 @@
 | Resource | Progress | Date | Type |
 |---|---|---|---|
 | [非線形時系列解析の基礎理論](https://amzn.to/41voaZa) | ✅ | 2025 | Book |
+| [カオス時系列解析の基礎と応用](https://amzn.to/45SbbTQ) | ✅ | 2025 | Book |
 
 ### Data Science
 | Resource | Progress | Date | Type |
 |---|---|---|---|
-| [分析者のためのデータ解釈学入門](https://amzn.to/3XEbsFp) | ⬜ | | Book |
+| [分析者のためのデータ解釈学入門](https://amzn.to/3XEbsFp) | ✅ | 2025 | Book |
 | [データ分析に必須の知識・考え方 認知バイアス入門](https://amzn.to/4gQEEjb) | ⬜ | | Book |
 | [The Kaggle Book](https://amzn.to/41tNBKz) | ⬜ | | Book |
 | [ビジネスデータサイエンスの教科書](https://amzn.to/3EVikrq) | ⬜ | | Book |
@@ -116,24 +119,23 @@
 | [Ｋａｇｇｌｅに挑む深層学習プログラミングの極意](https://amzn.to/438TBcW) | ✅ | 2024 | Book |
 | [紙と鉛筆で身につける データサイエンティストの仮説思考](https://amzn.to/4kdJSrR) | ✅ | 2024 | Book |
 | [Kaggleで勝つデータ分析の技術](https://amzn.to/3Xe3QZT) | ⬜ | | Book |
-
-### Dimension Reduction
-| Resource | Progress | Date | Type |
-|---|---|---|---|
-| [詳解　３次元点群処理　Ｐｙｔｈｏｎによる基礎アルゴリズムの実装](https://amzn.to/3Qyj4Fl) | ⬜ | | Book |
+| [グランドマスター三冠のKaggleノートブック開発術](https://amzn.to/4kTNv5V) | ✅ | 2025 | Book |
+| [目指せメダリスト！Kaggle実験管理術 着実にコンペで成果を出すためのノウハウ](https://amzn.to/4kGHpWT) | ✅ | 2025 | Book |
+| [Human-in-the-Loop 機械学習　人間参加型AIのための能動学習とアノテーション](https://amzn.to/4h2FWYj) | ⬜ | | Book |
 
 ### Traditional Machine Learning
 
 | Resource | Progress | Date | Type |
 |---|---|---|---|
 | [ガウス過程と機械学習](https://amzn.to/3XgD6b9) | ⬜ | | Book |
-| [本質を捉えたデータ分析のための分析モデル入門](https://amzn.to/4ibMlBA) | ⬜ | | Book |
+| [本質を捉えたデータ分析のための分析モデル入門](https://amzn.to/4ibMlBA) | ✅ | 2025 | Book |
 | [見て試してわかる機械学習アルゴリズムの仕組み 機械学習図鑑](https://amzn.to/4ictFkX) | ⬜ | | Book |
-| [評価指標入門](https://amzn.to/4i3D9iy) | ⬜ | | Book |
+| [評価指標入門](https://amzn.to/4i3D9iy) | ✅ | 2025 | Book |
 | [機械学習のための連続最適化](https://amzn.to/43bC1VY) | ⬜ | | Book |
 | [機械学習スタートアップシリーズ　ベイズ推論による機械学習入門](https://amzn.to/41vgLt4) | ⬜ | | Book |
 | [Ｐｙｔｈｏｎではじめるベイズ機械学習入門](https://amzn.to/4bdjJW2) | ⬜ | | Book |
 | [効果検証入門](https://amzn.to/3ERijoh) | ⬜ | | Book |
+| [事例で学ぶ特徴量エンジニアリング](https://amzn.to/3QEGLM7) | ✅ | 2025 | Book |
 
 #### XAI
 | Resource | Progress | Date | Type |
@@ -178,6 +180,11 @@
 | [LangChainとLangGraphによるRAG・AIエージェント［実践］入門](https://amzn.to/41te1w7) | ⬜ | | Book |
 | [LangChain完全入門](https://amzn.to/4iekIYm) | ⬜ | | Book |
 | []() | ⬜ | |
+
+### Dimension Reduction
+| Resource | Progress | Date | Type |
+|---|---|---|---|
+| [詳解　３次元点群処理　Ｐｙｔｈｏｎによる基礎アルゴリズムの実装](https://amzn.to/3Qyj4Fl) | ⬜ | | Book |
 
 ### AWS
 
